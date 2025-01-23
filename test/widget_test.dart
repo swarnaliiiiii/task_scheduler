@@ -8,7 +8,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:task_scheduler/main.dart';
+// import 'package:task_scheduler/main.dart';
 import 'package:task_scheduler/app/app.dart';
 
 void main() {
